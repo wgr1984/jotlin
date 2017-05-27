@@ -1,11 +1,11 @@
 # jotlin
-Kotlin-ize java dev - An experiment to get as most Kotlin features to Java as possible
+Kotlin-ize java dev - An experiment to port most Kotlin features as possible to Java
 
 # Target
-This repo shall be the last resort of all people bound to java (by Managment, Legacy or Love)
+This repo shall be the last resort of all people bound to java (by management, legacy or love)
 who still want to use similar cool feature as present in Kotlin and do not want to wait for java10 or above.
 
-=> Our goal is to find alternatives or code your own stuff in order to achieve simal feature set than Kotlin
+=> Our goal is to find alternatives or code your own stuff in order to achieve similar feature set than Kotlin. May the annotionProcessor be with us :)
 
 # Fatures
 | Feature                   | State | Notes / Ideas     |
