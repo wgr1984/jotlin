@@ -12,8 +12,8 @@ who still want to use similar cool feature as present in Kotlin and do not want 
 |---------------------------|-------|-------------------|
 | Pattern-Matching          | tbd   |                   |
 | Ranges                    | tbd   |                   |
-| Data classes              | tbd   | extend auto-value |
-| Default Mathod Parameters | tbd   | javadude/default  |
+| Data classes              | done   | [SimpleDataClassProcessor](https://github.com/wgr1984/SimpleDataClassProcessor) |
+| Default Mathod Parameters | done   | [SimpleDefaultMethods](https://github.com/wgr1984/SimpleDefaultMethods)  |
 | Higher Order Func. / Lamdas | done | -> use retrolamba / RXjava2 |
 | Null Safety               | 20%   | -> use Optionals (java 8 only / Android API 24) / Maybe(rxjava2) |
 | "Real" Extension Methods  | tbd   | Thanks to project lombok already there but dueto Jetbrains IDEA still so far away :( |
